@@ -1,1 +1,1 @@
-# bmi-calculator.github.com
+# bmi-calculator
